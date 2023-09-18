@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">fetch-post-http-bug</string>
+    <string name="title_activity_main">fetch-post-http-bug</string>
+    <string name="package_name">com.dallastjames.ionic.caphttpfetchpostbug1</string>
+    <string name="custom_url_scheme">com.dallastjames.ionic.caphttpfetchpostbug1</string>
+</resources>
