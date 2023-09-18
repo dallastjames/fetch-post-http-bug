@@ -14,6 +14,8 @@
     "@capacitor/cli": "^5.4.0",
     "@capacitor/core": "^5.4.0",
     "@capacitor/ios": "^5.4.0",
+    "@fastify/cors": "^8.3.0",
+    "fastify": "^4.23.2",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
   },
